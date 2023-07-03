@@ -29,5 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Conversor em tempo real de Real/Dolar e Real/Euro
 
-- [Acesse o projeto finalizado, online](https://cintiaomaas.github.io/portifolio/)
+- [Acesse o projeto finalizado, online](https://ottojoaopaulo.github.io/devConverter/)
 
